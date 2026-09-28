@@ -38,6 +38,7 @@ const ROOTS = [
   "README_ru.md",
   "README_ur.md",
   "README_zh.md",
+  "README_pt.md",
   "DOCKERHUB.md",
   "CONTRIBUTING.md",
   ".env.example",
